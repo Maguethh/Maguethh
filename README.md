@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **C++ and Java**
 
-💬 You should check my portfolio ! [here]([https://github.com/salesp07/salesp07/issues](https://magueth-portfolio.com/))**
+💬 You should check my portfolio ! **[here]([https://github.com/salesp07/salesp07/issues](https://magueth-portfolio.com/))**
 
 ⚡ Fun fact **I worked on several games that cumulate over 4 million visits! 🎮**
 
