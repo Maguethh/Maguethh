@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🎉;+I'm+Magueth;&color=a86ffc&background=00000000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,Welcome+to+my+profile;+My+name+is+Magueth;&color=d12e2e&background=00000000" />
 </h1>
+
 
 <h3 align="center"></h3>
 
